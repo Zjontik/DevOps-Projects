@@ -24,5 +24,18 @@ For Demonstration of this Project <a href="https://www.youtube.com/watch?v=IJAjC
 <a href="https://github.com/Abhinav-26/DevOps-Integration/tree/master/DevOps%20Project-5">Project-5 : Automate CloudBuild Triggers using Terraform</a><br>
 In this automation, the terraform script will automatically create a cloudbuild trigger with the defined configurations for the repository given and deploy it to GKE Cluster, defined in the terraform script.
 
+## Requirements
 
+- GitHub
+- Jenkins
+- Docker
+- Terraform
+- Linux Environment
+
+## Basic Setup Steps
+
+1. Clone the repository.
+2. Install the required dependencies.
+3. Configure Jenkins and Docker.
+4. Execute the deployment scripts.
 
